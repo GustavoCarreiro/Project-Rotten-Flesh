@@ -7,12 +7,12 @@ O objetivo principal foi desenvolver uma interface visual atrativa e organizada,
 
 ## 🚀 Funcionalidades:
 
-- 🎥 Listagem de filmes e séries
-- 📄 Páginas individuais de conteúdo
-- 🔐 Interface de login
-- 📂 Organização por categorias
-- 📱 Navegação entre múltiplas páginas
-- 🎨 Layout moderno inspirado em plataformas reais
+- 🎥 Listagem de filmes e séries 
+- 📄 Páginas individuais de conteúdo 
+- 🔐 Interface de login 
+- 📂 Organização por categorias 
+- 📱 Navegação entre múltiplas páginas 
+- 🎨 Layout moderno inspirado em plataformas reais 
 
 ## 🛠️ Tecnologias utilizadas: 
 
@@ -22,7 +22,7 @@ O objetivo principal foi desenvolver uma interface visual atrativa e organizada,
 ## 🎯 Objetivo do projeto: 
 Este projeto foi desenvolvido com foco em:
 
-- Praticar desenvolvimento front-end
-- Trabalhar organização de múltiplas páginas
-- Criar interfaces inspiradas em produtos reais
-- Evoluir habilidades em HTML e CSS
+- Praticar desenvolvimento front-end 
+- Trabalhar organização de múltiplas páginas 
+- Criar interfaces inspiradas em produtos reais 
+- Evoluir habilidades em HTML e CSS 
