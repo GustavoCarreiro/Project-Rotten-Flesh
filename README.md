@@ -41,6 +41,6 @@ Este projeto foi desenvolvido com foco em:
 
 ## 👨‍💻 Autores:
 
-- Gustavo Carreiro
-- João Otávio de Souza
-- João Vitor Marques de Almeida
+- **Gustavo Carreiro**
+- **João Otávio de Souza**
+- **João Vitor Marques de Almeida**
