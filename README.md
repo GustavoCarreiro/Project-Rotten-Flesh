@@ -22,13 +22,14 @@ O objetivo principal foi desenvolver uma interface visual atrativa e organizada,
 
 ---
 
-## 🛠️ Tecnologias utilizadas: 
+## 🛠️ Tecnologias Utilizadas: 
 
-- **Linguagens:** HTML5 e CSS3.
+- **HTML5**.
+- **CSS3**
 
 ---
 
-## 🎯 Objetivo do projeto: 
+## 🎯 Objetivo do Projeto: 
 
 Este projeto foi desenvolvido com foco em:
 
