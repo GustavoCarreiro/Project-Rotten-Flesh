@@ -6,8 +6,8 @@
 
 ## 📌 Sobre o projeto: 
 
-O **Rotten Flesh** é um projeto front-end que simula uma plataforma de streaming, permitindo ao usuário navegar entre diferentes páginas de filmes, séries e conteúdos diversos.
-O objetivo principal foi desenvolver uma interface visual atrativa e organizada, focando na experiência do usuário (UI/UX) e na estruturação de páginas web.
+> O **Rotten Flesh** é um projeto front-end que simula uma plataforma de streaming, permitindo ao usuário navegar entre diferentes páginas de filmes, séries e conteúdos diversos.
+> O objetivo principal foi desenvolver uma interface visual atrativa e organizada, focando na experiência do usuário (UI/UX) e na estruturação de páginas web.
 
 ---
 
@@ -33,10 +33,10 @@ O objetivo principal foi desenvolver uma interface visual atrativa e organizada,
 
 Este projeto foi desenvolvido com foco em:
 
-- Praticar desenvolvimento front-end.
-- Trabalhar organização de múltiplas páginas. 
-- Criar interfaces inspiradas em produtos reais. 
-- Evoluir habilidades em HTML e CSS.
+- **Praticar desenvolvimento front-end**.
+- **Trabalhar organização de múltiplas páginas**. 
+- **Criar interfaces inspiradas em produtos reais**. 
+- **Evoluir habilidades em HTML e CSS**.
 
 ---
 
